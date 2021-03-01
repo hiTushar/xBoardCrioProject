@@ -10,10 +10,3 @@ magazines = [
  * For Local testing, uncomment the below lines and you can test your code on local using test_main.py.
  */
 
- magazines = [
-   "https://storage.googleapis.com/fullstack-assessment/coronavirus.rss",
-   "https://storage.googleapis.com/fullstack-assessment/india-tech.rss",
-   "https://storage.googleapis.com/fullstack-assessment/sports-star.rss"
- ]
-
-
